@@ -165,3 +165,7 @@ Note that `setup.py` and `requirements.txt` are auto-generated; any changes you 
 
 - Commit often
 - Please write good commit messages (see _jvs_ commits for examples of high quality messages) 
+
+# Citation
+
+J. Nordin, V. Brinnel, J. van Santen, M. Bulla, U. Feindt et al. _Transient processing and analysis using AMPEL_. Astronomy and Astrophysics 631 (2019) A147. [doi:10.1051/0004-6361/201935634](https://doi.org/10.1051/0004-6361/201935634)
