@@ -1,11 +1,3 @@
-<img align="left" src="https://desycloud.desy.de/index.php/s/99Jkcyzn92rRpHF/preview" width="150" height="150"/>
-<br>
-
-# AMPEL
-<br><br>
-
-# Introduction
-
 AMPEL is a _modular_ and _scalable_ platform with explicit _provenance_ tracking, suited for systematically processing large - possibly complex and heterogeneous - datasets in real-time or not. This includes selecting, analyzing, updating, combining, enriching and reacting to data.
 
 The framework requires analysis and reaction logic to be broken down in adequate indepentent units.
