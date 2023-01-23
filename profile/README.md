@@ -1,8 +1,8 @@
-AMPEL is a _modular_ and _scalable_ platform with explicit _provenance_ tracking, suited for systematically processing large - possibly complex and heterogeneous - datasets in real-time or not. This includes selecting, analyzing, updating, combining, enriching and reacting to data.
+AMPEL is a modular and scalable platform with explicit provenance tracking, suited for systematically processing large - possibly complex and heterogeneous - datasets in real-time or not. This includes selecting, analyzing, updating, combining, enriching and reacting to data.
 
 The framework requires analysis and reaction logic to be broken down in adequate indepentent units.
-AMPEL is general enough to be applicable in various fields,
-it was originaly developped to solve challenges in the context of experimental astrophysics.
+AMPEL is general enough to be usable in various fields,
+it was originaly developped to solve challenges in the context of observational [astrophysics](https://github.com/AmpelAstro).
 
 AMPEL requires Python 3.10+ and its codebase is fully typed.
  
